@@ -1,0 +1,57 @@
+accounts{
+    color: blue;
+  }
+  .body{
+    color: blue;
+    font-size: 17pt;
+  background-color:#4d5a66;
+  }
+  li {
+    float: left;
+}
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#778899;  
+}
+.nav{
+  display: flex;
+  justify-content: space around;
+  align-items: center;
+  min-height: 8vh;
+  background-color:#778899;
+
+}
+.text{
+  float: left;
+  color: #87CEFA;
+  font-size: 16pt;
+  font-family: 'Open Sans', sans-serif;
+  background-color:#778899;
+  
+}
+
+.table{
+  color: #87CEFA;
+  font-family: 'Open Sans', sans-serif;
+  background-color:#778899;
+  
+
+}
+.picture{
+  float: right 
+  si
+  background-color:#4d5a66;
+
+}
+
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
